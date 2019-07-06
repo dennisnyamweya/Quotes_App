@@ -14,9 +14,9 @@ There are no known bugs but feel free to contact me in case you find any bug.You
 ## Technologies Used
 * HTML
 * CSS/Bootstrap
-* Angular 
+* Angular
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+You can contact me via my email at denisnyamweya813@gmail.com for any enquiries.
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}*
