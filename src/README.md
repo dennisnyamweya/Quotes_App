@@ -9,9 +9,8 @@ This is an application that allows users to create their own quotes and vote for
 * Git clone https://github.com/dennisnyamweya/Quotes_App.git
 * cd Quotes
 * Double click on index.html
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no known bugs but feel free to contact me in case you find any bug.You can contact me via my email in the contacts.
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
