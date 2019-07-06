@@ -4,7 +4,7 @@ An application that allows one to write quotes and vote on the best quotes and w
  {6th July 2019}
 #### By **{Dennis Makori Nyamweya}**
 ## Description
-{This is an application that allows users to create their own quotes and vote for the best inspiring quotes.
+This is an application that allows users to create their own quotes and vote for the best inspiring quotes.The users are allowed to delete the quote and even go as far a voting through upvote and downvote whether it is inspirational or not.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
