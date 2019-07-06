@@ -15,6 +15,11 @@ There are no known bugs but feel free to contact me in case you find any bug.You
 * HTML
 * CSS/Bootstrap
 * Angular
+## BDD
+### Business Logic
+This application allows creation of quotes and publisher.It also takes the names of the quotes publisher.It also allows voting of quotes whether they are inspirational or not.The application also shows the number of days that has passed since published date.
+## User Interface Logic
+The user interface is a one page website that has an input section for creating new quote,date and name of publisher.
 ## Support and contact details
 You can contact me via my email at denisnyamweya813@gmail.com for any enquiries.
 ### License
