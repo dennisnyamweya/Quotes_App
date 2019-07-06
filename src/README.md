@@ -12,7 +12,9 @@ This is an application that allows users to create their own quotes and vote for
 ## Known Bugs
 There are no known bugs but feel free to contact me in case you find any bug.You can contact me via my email in the contacts.
 ## Technologies Used
-{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
+* HTML
+* CSS/Bootstrap
+* Angular 
 ## Support and contact details
 {Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
 ### License
