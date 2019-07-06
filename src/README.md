@@ -4,7 +4,7 @@ An application that allows one to write quotes and vote on the best quotes and w
  {6th July 2019}
 #### By **{Dennis Makori Nyamweya}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is an application that allows users to create their own quotes and vote for the best inspiring quotes.
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
