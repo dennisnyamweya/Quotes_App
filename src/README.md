@@ -23,7 +23,6 @@ The user interface is a one page website that has an input section for creating 
 You can contact me via my email at denisnyamweya813@gmail.com for any enquiries in case of any problems.You can inform me of any bug and any development you may want to make.
 ### License
 *{MIT License
-
 Copyright (c) [2019] [Dennis Makori Nyamweya]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
