@@ -7,7 +7,8 @@ This is an application that allows users to create their own quotes and vote for
 ## Setup/Installation Requirements
 * Git clone https://github.com/dennisnyamweya/Quotes_App.git
 * cd Quotes
-* Double click on index.html
+* npm install
+* ng serve --open
 ## Known Bugs
 There are no known bugs but feel free to contact me in case you find any bug.You can contact me via my email in the contacts.
 ## Technologies Used
